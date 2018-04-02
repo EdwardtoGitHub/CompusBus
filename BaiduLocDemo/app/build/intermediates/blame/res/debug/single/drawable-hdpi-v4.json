@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_openmap_mark.png",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_openmap_focuse_mark.png",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huaji.png",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
+    }
+]

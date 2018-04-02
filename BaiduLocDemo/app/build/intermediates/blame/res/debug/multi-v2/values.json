@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "41,48",
+                        "startColumns": "4,4",
+                        "startOffsets": "1770,2061",
+                        "endLines": "47,50",
+                        "endColumns": "12,12",
+                        "endOffsets": "2056,2216"
+                    }
+                },
+                {
+                    "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,8,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "92,151,309,211,259",
+                        "endColumns": "57,55,46,46,48",
+                        "endOffsets": "145,202,351,253,303"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,113,169,216,263",
+                        "endColumns": "57,55,46,46,48",
+                        "endOffsets": "108,164,211,258,307"
+                    }
+                },
+                {
+                    "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,14,9,10,8,15,4,12,29,36,11,13,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "157,56,707,353,401,303,813,104,516,1233,1445,474,611,210,257",
+                        "endLines": "5,3,14,9,10,8,28,4,12,35,36,11,13,6,7",
+                        "endColumns": "52,47,105,47,72,49,28,52,94,17,68,41,95,46,45",
+                        "endOffsets": "205,99,808,396,469,348,1228,152,606,1440,1509,511,702,252,298"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,27,28,29,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "312,365,413,519,567,640,690,1110,1163,1258,1470,1539,1581,1677,1724",
+                        "endLines": "7,8,9,10,11,12,26,27,28,35,36,37,38,39,40",
+                        "endColumns": "52,47,105,47,72,49,28,52,94,17,68,41,95,46,45",
+                        "endOffsets": "360,408,514,562,635,685,1105,1158,1253,1465,1534,1576,1672,1719,1765"
+                    }
+                }
+            ]
+        }
+    ]
+}

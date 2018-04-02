@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "D:\\asproject\\BaiduLoc_AndroidSDK_v7.1_Demo\\BaiduLoc_AndroidSDK_v7.1_Demo\\android_studio\\BaiduLocDemo\\app\\src\\main\\res\\layout\\hotwifi.xml"
+    }
+]

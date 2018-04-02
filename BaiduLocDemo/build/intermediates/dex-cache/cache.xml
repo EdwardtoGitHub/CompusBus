@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\okio-1.12.0_0f99ea70370ad4317d825b55761448258c463c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_acf189601518c241ed62d0cc1040ecc2ca15b5d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8d69ffb01c347124a469c226b0f2f972d36d7403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_6c10550779c5e5ea33f8512a9a74c61069a76ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_67db457f5faf368ab052c9c8bc870d7875e09817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_7754e492f2e52520386f166459ed5ac558dce873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_6bd9ecb6dc1685561d5112b579c595fd189275a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\gson-2.7_1494697bfd933a6a7adb3df00e0137f25d331139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Edward\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_4b694df07554f4e4fb83f694527ef8d18ea27abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_3a1acf734cd065981d2357216a395466dac73933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="128ce4ceb647425acea04b65ee259fe015a4f78a">
+        <dex dex="D:\asproject\BaiduLoc_AndroidSDK_v7.1_Demo\BaiduLoc_AndroidSDK_v7.1_Demo\android_studio\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_ff8875015170ff6ca56338d5fff204879f1bfb68.jar" />
+    </item>
+
+</items>
